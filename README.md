@@ -4,8 +4,11 @@
 
 # Created Boychongzen aka Xroot
 
-# Download File Atau Scriptnya
+Download File Atau Scriptnya
 https://github.com/boychongzen18/vmess-auto-singkron-jam/blob/main/jam.sh
+
+SETTING STARTUP : system > startup
+/usr/bin/jam.sh bughost.com:443
 
 # Copy Hasil Downloadnya ke Folder /usr/bin
 
