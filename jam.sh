@@ -88,7 +88,7 @@ function sandal() {
 if [[ "$1" == "update" ]]; then
 	echo -e "${nmfl}: Updating script..."
 	echo -e "${nmfl}: Downloading script update..."
-	curl -sL raw.githubusercontent.com/kulo-sinten/jam-hp-stb/main/jam.sh > "$jamup"
+	curl -sL raw.githubusercontent.com/boychongzen18/vmess-auto-singkron-jam/main/jam.sh > "$jamup"
 	chmod +x "$jamup"
 	sed -i 's/\r$//' "$jamup"
 	cat << "EOF" > "$jamup2"
