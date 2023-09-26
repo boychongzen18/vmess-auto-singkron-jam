@@ -2,8 +2,6 @@
 
 # COLOK CABUT LISTRIK & MATI LISTRIK AMAN
 
-# Created Boychongzen aka Xroot
-
 Download File Atau Scriptnya
 https://github.com/boychongzen18/vmess-auto-singkron-jam/blob/main/jam.sh
 
@@ -13,6 +11,8 @@ SETTING STARTUP : system > startup
 # Copy Hasil Downloadnya ke Folder /usr/bin
 
 ![be](https://raw.githubusercontent.com/boychongzen18/vmess-auto-singkron-jam/main/jam.jpg)
+
+# Created Boychongzen aka Xroot
 
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
