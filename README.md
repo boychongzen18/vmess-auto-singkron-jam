@@ -17,7 +17,7 @@ SETTING STARTUP : system > startup
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
 
-Link Tutorial : 
+Link Tutorial : https://drive.google.com/file/d/150LzNI6IgutojLhewX02_AU6IodL38-Y/view
 
 My Website    : https://hackingforlive.wordpress.com
 
