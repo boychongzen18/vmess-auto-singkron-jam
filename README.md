@@ -14,7 +14,7 @@ https://github.com/boychongzen18/vmess-auto-singkron-jam/blob/main/jam.sh
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
 
-Link Tutorial : https://youtu.be/fZIBHfnKwTo
+Link Tutorial : 
 
 My Website    : https://hackingforlive.wordpress.com
 
