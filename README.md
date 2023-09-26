@@ -1,6 +1,6 @@
 # AUTO SINGKRON JAM AKUN VMESS
 
-
+# COLOK CABUT LISTRIK & MATI LISTRIK AMAN
 
 # Created Boychongzen aka Xroot
 
